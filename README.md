@@ -56,6 +56,6 @@ Ingesta y validación de nuevos Datos
 
 #### Día 4:
 
-- See semi-automatiza el proceso de ETL obteniendo los CSV de todos los meses del año 2011
+- See semi-automatiza el proceso de ETL obteniendo los CSV de los meses con los que contamos del año 2011
 
     ##### automatizacion_v1.ipynb
