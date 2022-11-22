@@ -6,29 +6,29 @@ El proyecto se dividirá en diferentes fases:
 
 -	Primera Fase:
 
-Estudio del Negocio y Estructura de los archivos
+      + Estudio del Negocio y Estructura de los archivos
 
-Armar Estructura básica de Data Warehouse
+      + Armar Estructura básica de Data Warehouse
 
-Lograr un proceso de ETL automatizado
+      + Lograr un proceso de ETL automatizado
 
-Crear CSV con datos limpios y ordenados
+      + Crear CSV con datos limpios y ordenados
 
 -	Segunda Fase:
 
-Creación y mejoras de Data Warehouse
+      + Creación y mejoras de Data Warehouse
 
-Crear tablas relacionales con SQL
+      + Crear tablas relacionales con SQL
 
-Ingesta de datos obtenidos del proceso de ETL
+      + Ingesta de datos obtenidos del proceso de ETL
 
 -	Tercera Fase:
 
-Realizar los primero Análisis gráficos y Predicciones 
+      + Realizar los primero Análisis gráficos y Predicciones 
 
 -	Cuarta Fase:
 
-Ingesta y validación de nuevos Datos
+      + Ingesta y validación de nuevos Datos
 
 
 
