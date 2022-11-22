@@ -1,8 +1,8 @@
-# Base de datos Floreria
+# Base de datos Florería
 
-En este proyecto se realizara la migracion de datos alamacenados en archivos de XLS y XLSX a una base de datos relacional con MySQL.
+En este proyecto se realizara la migración de datos almacenados en archivos de XLS y XLSX a una base de datos relacional con MySQL.
 
-El proyecto se dividira en diferentes fases:
+El proyecto se dividirá en diferentes fases:
 
 -	Primera Fase:
 
@@ -44,18 +44,35 @@ Ingesta y validación de nuevos Datos
 
 #### Día 2:
 
-- Iniciamos pruebas de manejo de archivos y ETL con Python. Librerias Pandas (ETL), Pathlib (Directorios y Archivos), xlwings (Libreria Excel)
+- Iniciamos pruebas de manejo de archivos y ETL con Python. Librerías Pandas (ETL), Pathlib (Directorios y Archivos), xlwings (Librería Excel)
 
    ##### etl_excel.ipynb
    ##### manejo_archivos.ipynb
 
 #### Día 3:
 
-- Creamos el esquema basico y funcional de ETL, que sera replicado y adaptado a todos los archivos
+- Creamos el esquema básico y funcional de ETL, que será replicado y adaptado a todos los archivos
 - De cada Archivo XLS se obtienen tres archivos CSV (Stock, Precios, Caja)
 
 #### Día 4:
 
-- See semi-automatiza el proceso de ETL obteniendo los CSV de los meses con los que contamos del año 2011
+- Se semi-automatiza el proceso de ETL obteniendo los CSV de los meses con los que contamos del año 2011
 
     ##### automatizacion_v1.ipynb
+    
+#### Día 5:
+
+- Se realiza la creación de la estructura relacional de la base de datos
+
+#### Día 6:
+
+- Se crea la base de datos y las tablas con sus relaciones definidas con mysql
+
+### Segunda Fase:
+#### Día 7: 
+
+- Se realizan prácticas para conexión y manejo de la base de datos con Python
+
+#### Día 8:
+
+- Se trabaja en un nuevo ETL para la ingesta de los datos almacenados en los CSV a la base de datos
